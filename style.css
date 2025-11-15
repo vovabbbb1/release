@@ -1,0 +1,22 @@
+/* Product Info Card */
+.card-container {
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 16px;
+gap: 16px;
+
+position: absolute;
+width: 297px;
+min-width: 240px;
+height: 274px;
+left: 658px;
+top: 60px;
+
+background: #FFFFFF;
+border: 1px solid #D9D9D9;
+border-radius: 8px;
+}
